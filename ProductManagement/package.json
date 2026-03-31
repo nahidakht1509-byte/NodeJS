@@ -1,0 +1,20 @@
+{
+  "name": "product-management0app",
+  "version": "1.0.0",
+  "description": "Product management application using Express and JSON file storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node productClients.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.4",
+    "express": "^4.22.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

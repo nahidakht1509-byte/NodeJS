@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "Mobile",
+      "category": "electronics",
+      "price": 12000,
+      "manufacturingDate": "2026-03-31",
+      "expiryDate": "2028-03-31",
+      "id": 1
+    },
+    {
+      "name": "orange",
+      "category": "food",
+      "price": 200,
+      "manufacturingDate": "2026-03-31",
+      "expiryDate": "2026-04-10",
+      "id": 2
+    }
+  ]
+}
