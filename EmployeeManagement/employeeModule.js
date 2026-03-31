@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3000/employees';
+const BASE_URL = 'http://localhost:3000/Employee';
 
 class EmployeeModule {
   async request(url = BASE_URL, options = {}) {

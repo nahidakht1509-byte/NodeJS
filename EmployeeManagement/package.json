@@ -2,11 +2,11 @@
   "name": "employeemanagement",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "server": "npx json-server employee.json",
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js",
+    "demo": "node main.js demo"
   },
   "keywords": [],
   "author": "",
